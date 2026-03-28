@@ -1,4 +1,4 @@
-# House-rent-Prediction-app-for-indian-cities
+# House-rent-prediction-app-for-indian-cities
 India is a country with huge population, resulting into massive house renting requirements and a well established real estate system. This project is all about developing an application that predicts the rent of a house based on some parameters. The ML model that drives it is trained using Random Forest Regression. Python's Streamlit library was used to develop the interface and the frontend. <br>
 <br>
 **The Dataset and Preprocessing**<br>
