@@ -22,5 +22,6 @@ The mean absolute error is around 563, and the average value of test data is fou
 </p>
 as we can see there is reasonable prediction for most of the data, with a reasonably linear relationship. But for edge case data, which is around 4e6, it predicts 3e6, that means 1e6 error in the edge case. Proving our assumption that the error in edge case data is increasing the RMSE, the prediction is good for most of the data.<br>
 <br>
-I used the model to build a web application using streamlit. 
+I used the model to build a web application using streamlit. Access the app through this link. It may take a few minutes to open as the app is large.
+https://house-rent-prediction-app-for-indian-cities-kke5kgarw6qzrihdjw.streamlit.app/
 
